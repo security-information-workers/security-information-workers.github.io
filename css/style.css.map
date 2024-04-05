@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/kfulton/wsiw/wsiw-site",
+	"sourceRoot": "/Users/kfulton/wsiw/wsiw-site-code",
 	"sources": [
 		"themes/theme-wsiw/assets/scss/wsiw.scss",
 		"themes/theme-wsiw/assets/scss/bootstrap/bootstrap.scss",
