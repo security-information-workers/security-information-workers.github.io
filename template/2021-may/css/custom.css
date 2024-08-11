@@ -1,0 +1,77 @@
+.site-header {
+  text-align: center;
+  background: #1f567d;
+}
+
+.site-header {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.site-branding {
+  position: relative;
+  margin: 40px 0 40px;
+}
+
+.site-branding.has-header {
+  min-height: 67px;
+}
+
+.conf-title {
+  margin: 0 30px;
+  font-size: 30px;
+  color: #fff;
+}
+
+.conf-desc {
+  margin: 10px 0 30px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.clearfix:after, .article-wrapper:after, .main-navigation ul:after, .site-footer:after, .comment-body:after, .site-main .gallery:after {
+  clear: both;
+}
+
+.navbar-fixed-top { transition: all 0s ease; margin-bottom: 20px }
+
+.logo-transition { transition: all 3s ease; }
+
+#nav-logo {
+    /*opacity: 0;*/
+}
+
+.nav-date {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    margin-right: 20px;
+    /* opacity: 0; */
+    float:right;
+}
+
+h2 {
+    line-height:1.5em;
+}
+
+h4{
+    margin-top: 30px;
+    font-weight: bold;
+    line-height:1.3em;
+}
+
+ul > li {
+    line-height:1.7em;
+}
+
+td {
+    padding-right: 20px;
+}
+
+.row > .col {
+    padding-left: 15px;
+    padding-right: 15px;
+}
